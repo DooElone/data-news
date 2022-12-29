@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.main {
+    width: 1200px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.nav {
+    width: 1200px;
+    height: 60px;
+    background-color: #1e2233;
+    border-bottom: 5px solid #56718f;
+}
+
+.nav ul {
+    width: 1080px;
+    height: 60px;
+    margin: 0 auto;
+}
+
+.nav li {
+    width: 180px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    float: left;
+    list-style-type: none;
+}
+
+.active {
+    color: #57708c;
+}
+
+.con {
+    width: 1200px;
+    height: auto;
+}
+
+.con img {
+    width: 100%;
+}
